@@ -2,9 +2,11 @@
 <h1 align="center">Blkdevcon</h1>
 
 <p align="center">
-  <div align="center">
     <a href="https://infosec.exchange/@blkdevcon">
     <img src="https://raw.githubusercontent.com/mastodon/mastodon/main/lib/assets/wordmark.dark.png" alt="Mastodon-infosec.exchange Server" title="Go to website" width="100">
+</a>&nbsp;  
+    <a href="https://www.reddit.com/r/blkdevcon/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" title="Go to website" width="100">
 </a>
 </div>
 
