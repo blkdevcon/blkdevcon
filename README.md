@@ -1,10 +1,10 @@
 ### Hi there 👋
 <h1 align="center">Blkdevcon</h1>
 
-<p align="center"> | 
+<p align="center">
   <div align="center">
-    <a href="blkdevcon@infosec.exchange">
-    <img src="https://raw.githubusercontent.com/mastodon/mastodon/main/lib/assets/wordmark.dark.png" alt="Mastodon" title="Go to website" width="100">
+    <a href="https://infosec.exchange/@blkdevcon">
+    <img src="https://raw.githubusercontent.com/mastodon/mastodon/main/lib/assets/wordmark.dark.png" alt="Mastodon-infosec.exchange Server" title="Go to website" width="100">
 </a>
 </div>
 
