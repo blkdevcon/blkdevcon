@@ -1,21 +1,16 @@
-### Hi there 👋
-<h1 align="center">Blkdevcon</h1> ...
----
+# <align="center">
 
-<p align="center">
-    <a href="https://infosec.exchange/@blkdevcon">
-    <img src="https://raw.githubusercontent.com/mastodon/mastodon/main/lib/assets/wordmark.dark.png" alt="Mastodon-infosec.exchange Server" title="Go to website" width="100">
-</a>&nbsp;
+## [](https://infosec.exchange/@blkdevcon)
+
+![]((<<https://raw.githubusercontent.com/mastodon/mastodon/main/lib/assets/wordmark.dark.png){width=100px>}
+
     <a href="https://dev.to/blkdevcon">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.io" title="Go to website" width="100">
 </a>&nbsp;  
     <a href="https://www.reddit.com/r/blkdevcon/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" title="Go to website" width="100">
-</a>&nbsp; ...  
-
----
+</a>&nbsp;
 <p align="center">✨ Technology enthusiast and electronic tinkerer ✨...
-   
    -  :mortar_board: Training anf Education
 <!--
 Here are some ideas to get you started:
